@@ -9,7 +9,7 @@ package main
 
 import "fmt"
 
-func main () {	
+func main () {
 	//string literal text
 	fmt.Println("Hail, Mary, Full of grace")
 	
