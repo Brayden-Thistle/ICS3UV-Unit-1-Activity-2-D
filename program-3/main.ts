@@ -15,7 +15,7 @@ console.log("Happy birthday to you");
 console.log("Happy birthday, dear Brayden");
 
 //string literal text
-console.log("Happy birthday to you.")
+console.log("Happy birthday to you.");
 
 //string literal text
 console.log("\nDone");
